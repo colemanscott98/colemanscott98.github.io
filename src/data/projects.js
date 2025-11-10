@@ -1,4 +1,4 @@
-export default [
+const projects = [
   {
     title: "Find My Library",
     description: "A React app using Google Maps to locate outdoor libraries.",
@@ -10,3 +10,5 @@ export default [
     link: "https://github.com/colemanscott98/aws-task-app"
   }
 ];
+
+export default projects;
